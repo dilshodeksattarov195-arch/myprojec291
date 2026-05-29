@@ -1,0 +1,12 @@
+{
+    "meta": {
+        "module": "smssalculate",
+        "uuid": 1206486,
+        "checksum": "ux9uo2"
+    },
+    "settings": {
+        "retries": 4,
+        "enabled": true,
+        "mode": "staging"
+    }
+}
